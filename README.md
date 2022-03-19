@@ -16,5 +16,6 @@
   <a href = "mailto:rogeriofilho63@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/rog%C3%A9rio-filho-4467a1232/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitek"></a>
   
+  ![Snake animation](https://github.com/rogeri0-filho/rogeri0-filho/blob/output/github-contribution-grid-snake.svg)
   
 </div>
